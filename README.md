@@ -1,2 +1,2 @@
 # iOS-JSON-Handling-Example
-JSON Handling example using AFHTTPSessionManager 
+JSON Handling example using AFNetworking
